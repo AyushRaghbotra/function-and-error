@@ -12,9 +12,7 @@ For this project, write a smart contract that implements the require(), assert()
 * The withdraw function demonstrates the usage of the revert() statement to revert the transaction with a custom error message if a certain condition is not met.
 
 ### Executing program
-
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+* Complile the contract.
+* Then switch to depoly & run transactions.
+* Then click on deploy.
+* There will be are all variable then we can just put thr value to cheak the conditons for all the functions.
